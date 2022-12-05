@@ -8,7 +8,7 @@ The workflow for the prediction of ACPs by the proposed ACP-MLC is depicted in t
 # Download and Installation
 To download ACP-MLC, simply type the following command:  
 ```
-$ git clone https://github.com/Nicole-DH/ACP-MLC>
+$ git clone https://github.com/Nicole-DH/ACP-MLC.git
 ```  
 
 To install ACP-MLC, first extract the `EXE` file and then double-click it to launch the software.
