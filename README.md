@@ -5,5 +5,9 @@ ACP-MLC is a two-level prediction engine, in which the 1st-layer model predicts 
 The workflow for the prediction of ACPs by the proposed ACP-MLC is depicted in the figure below.  
   
 ![Alt text](https://github.com/Nicole-DH/ACP-MLC/blob/main/img/workflow.png)
+# Download and Installation
+To download ACP-MLC, simply type the following command:  
+$ git clone https://github.com/Nicole-DH/ACP-MLC
+To install ACP-MLC, first extract the EXE file and then double-click it to launch the software.
 # Licence
 The repository is only allowed for accedemic research. Commercial usage is not granted.
