@@ -1,4 +1,4 @@
-This is the corresponding repository of the paper titled "ACP-MLC: A two-level prediction engine for anticancer peptide identification and multi-label classification of their functional types"
+This is the corresponding repository of the paper titled "ACP-MLC: A two-level prediction engine for identification of anticancer peptides and multi-label classification of their functional types"
 # Description
 ACP-MLC is a two-level prediction engine, in which the 1st-layer model predicts whether a query sequence is an ACP or not by the random forest algorithm, and the 2nd-layer model predicts which tissue types the sequence might target by the binary relevance algorithm.  
   
