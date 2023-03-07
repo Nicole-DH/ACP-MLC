@@ -6,11 +6,10 @@ The workflow for the prediction of ACPs by the proposed ACP-MLC is depicted in t
   
 ![Alt text](https://github.com/Nicole-DH/ACP-MLC/blob/main/img/workflow.png)
 # Download and Installation
-To download ACP-MLC, simply type the following command:  
-```
-$ git clone https://github.com/Nicole-DH/ACP-MLC.git
-```  
+1. The ACP-MLC software is freely available at  https://www.amazon.com/clouddrive/share/dW6uIgXPXfNBCLIcMcMJiKJ9rr5aXaJAo78VgGKVKRH
+2. To install ACP-MLC, first extract the `EXE` file and then double-click it to launch the software.
 
-To install ACP-MLC, first extract the `EXE` file and then double-click it to launch the software.
+# Guide
+The ACP-MLC software is for Windows operating system. Please read the manual and operate according to the instructions.
 # Licence
 The repository is only allowed for accedemic research. Commercial usage is not granted.
